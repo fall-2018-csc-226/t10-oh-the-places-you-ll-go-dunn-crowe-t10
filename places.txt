@@ -1,23 +1,23 @@
 4
-Scott
-Hometown: New Virginia, IA
-41.156537
--93.7107200
+Austin
+Hometown: Irvine, KY
+37.700600
+-83.975320
 darkblue
-Scott
-Awesome city: Edinburgh, Scotland
-55.950190
--3.187550
+Austin
+Awesome city: Florence, Italy
+43.7696
+11.2558
 lightgreen
-Emily
-Hometown: Pittsburgh, PA
+Tanner
+Hometown: Irvine, KY
 40.932850
 -80.358543
 orange
-Emily
-Most Interesting Place: Reykjavik, Iceland
-64.147210
--21.942400
+Tanner
+Most Interesting Place: Dublin, Ireland
+53.3498
+6.2603
 red
 
 
